@@ -1,0 +1,18 @@
+%define lookup-function-name lookupGeneratedInit
+%define class-name TitaniumcomscoreAndroidBindings
+%{
+
+#include <string.h>
+#include <v8.h>
+#include <KrollBindings.h>
+
+#include "com.benjamin.comscore.TitaniumcomscoreAndroidModule.h"
+#include "com.benjamin.comscore.ExampleProxy.h"
+
+
+%}
+struct titanium::bindings::BindEntry;
+%%
+com.benjamin.comscore.ExampleProxy,::com::benjamin::comscore::titaniumcomscoreandroid::ExampleProxy::bindProxy,::com::benjamin::comscore::titaniumcomscoreandroid::ExampleProxy::dispose
+com.benjamin.comscore.TitaniumcomscoreAndroidModule,::com::benjamin::comscore::TitaniumcomscoreAndroidModule::bindProxy,::com::benjamin::comscore::TitaniumcomscoreAndroidModule::dispose
+%%

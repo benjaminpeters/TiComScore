@@ -1,0 +1,3 @@
+"/Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/android/build/generated/java/com/benjamin/comscore/TitaniumcomscoreAndroidBootstrap.java"
+"/Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/android/src/com/benjamin/comscore/ExampleProxy.java"
+"/Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/android/src/com/benjamin/comscore/TitaniumcomscoreAndroidModule.java"

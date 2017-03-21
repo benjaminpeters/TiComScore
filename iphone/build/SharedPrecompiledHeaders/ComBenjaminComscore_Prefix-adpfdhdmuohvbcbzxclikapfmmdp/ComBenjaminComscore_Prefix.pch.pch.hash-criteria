@@ -1,0 +1,32 @@
+-x
+objective-c
+-arch
+armv7
+-std=c99
+-fmodules
+-fbuild-session-file=/var/folders/6_/yh4y_qmn6yl063d055613p94sbt0ls/C/org.llvm.clang/ModuleCache/Session.modulevalidation
+-fpascal-strings
+-Os
+-fno-common
+-DTI_VERSION=
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.2.sdk
+-miphoneos-version-min=10.2
+-g
+-fembed-bitcode-marker
+-iquote
+-iquote
+-I/Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/iphone/build/Release-iphoneos/include
+-I/Users/bpeters/Library/Application Support/Titanium/mobilesdk/osx/5.5.1.GA/iphone/include
+-I/Users/bpeters/Library/Application Support/Titanium/mobilesdk/osx/5.5.1.GA/iphone/include/TiCore
+-I/Users/bpeters/Library/Application Support/Titanium/mobilesdk/osx/5.5.1.GA/iphone/include/JavaScriptCore
+-F/Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/iphone/build/Release-iphoneos
+-F/Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/iphone
+-F/Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/iphone/Resources
+-F/Users/bpeters/Documents/Appcelerator_Studio_Workspace/titaniumcomscore/iphone/platform
+-DTI_POST_1_2
+arm-apple-darwin15.6.0
+"4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)"
+SDK_PRODUCT_BUILD_VERSION=14C89
+14C89

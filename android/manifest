@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.2
+apiversion: 3
+architectures:armeabi-v7a x86
+description: titaniumcomscore-android
+description_0.2: updated comscore SDK 5.0.6
+author: Benjamin Peters
+license: Specify your license
+copyright: Copyright (c) 2017 by Your Company
+
+# these should not be edited
+name: titaniumcomscore-android
+moduleid: com.benjamin.comscore
+guid: ac6725b2-f0a9-44cf-abed-ba733f2503cf
+platform: android
+minsdk: 6.0.0.GA

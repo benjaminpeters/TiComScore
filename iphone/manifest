@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.2
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: titaniumcomscore
+author: Benjamin Peters
+license: Specify your license
+copyright: Copyright (c) 2017 by Your Company
+
+# these should not be edited
+name: titaniumcomscore
+moduleid: com.benjamin.comscore
+guid: 7fce6f6f-ec81-425d-887e-643fd294b6ae
+platform: iphone
+minsdk: 5.3.0.GA
